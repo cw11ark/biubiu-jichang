@@ -54,8 +54,6 @@
 
 <img src="assets/speed.png" width="880" alt="BiuBiu 节点测速">
 
-
-
 ## 怎么选
 
 - 想先体验可看 26 元 Small Biu 50G；资料只说明这是供稿账号当前套餐，购买前仍需确认新客可售状态。
@@ -65,8 +63,6 @@
 ## 注册
 
 👉 **[官网注册](https://biubiux.online/#/register?code=iS1OQJ7Q)** · 先用 26 元 Small Biu 体验；长期低频使用再看年度总量包。
-
-*本文使用推广链接，注册或购买后本站可能获得佣金。*
 
 ## 更新
 
